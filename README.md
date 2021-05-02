@@ -6,10 +6,10 @@ ____________
 
 Nome dos integrantes: 
 
-* pessoa 1
-* pessoa 2
-* pessoa 3
-* pessoa 4
+* Willian Kenzo Asanuma Lee
+* Rafael Meyer Kahn
+* Gabriel Parfan Guimarães
+* Fé
 
 
 Visite sempre o enunciado abaixo para atualizacões: 
